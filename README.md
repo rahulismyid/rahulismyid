@@ -1,127 +1,154 @@
-<h1 align="center">Hi 👋, I'm Rahul Ajarekar</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+# Rahul Ajarekar - Senior Frontend Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulismyid&label=Profile%20views&color=0e75b6&style=flat" alt="rahulismyid" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulismyid" alt="rahulismyid" />
-  </a>
-</p>
+## Contact Information
+- **Location:** Pune, India  
+- **Email:** rahulismyid@gmail.com  
+- **Phone:** +91 7040005157  
+- **LinkedIn:** (https://www.linkedin.com/in/rahul-ajarekar/)  
+- **GitHub:** (https://github.com/rahulismyid)
 
 ---
 
-### 🔗 Connect with me:
-<p align="center">
-  <a href="https://codepen.io/rahulismyid" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-ajarekar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## Summary
+Accomplished **Frontend Engineer** with over 6 years of experience in building scalable, high-performance web applications. Proficient in **React.js**, **Next.js**, **Redux**, **TypeScript**, and **JavaScript ES6**, with a strong focus on delivering responsive, user-centered designs and ensuring code quality through **Test-Driven Development (TDD)**. Experienced in mentoring teams and collaborating with cross-functional teams to deliver high-quality software solutions. Specializes in optimizing performance, enhancing user experience, and ensuring maintainable code.
 
 ---
 
-### 🛠️ Languages and Tools:
+## Key Skills
 
-<p align="center">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" />
-  </a>
-</p>
+- **Core Competencies:** SPA Development, Performance Optimization, Responsive Web Design, Cross-Functional Collaboration, TDD & Code Quality, Mentorship & Team Leadership.
+- **Technical Skills:** React.js, Next.js, Redux, TypeScript, JavaScript ES6, Webpack, GraphQL, Jest, React Testing Library, Vue.js, Vuex, HTML, CSS3, SCSS, Tailwind CSS, Material-UI, Bootstrap, REST APIs, Microfrontend Architecture, Git, Bitbucket, JIRA, Confluence.
+- **Familiar:** Styled Components, Figma, MySQL, MongoDB, Node.js, PHP.
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulismyid&show_icons=true&locale=en&layout=compact" alt="rahulismyid" />
-</p>
+## Professional Experience
+
+### Senior Frontend Engineer  
+**TEKsystems** — Pune, India  
+*April 2024 – October 2024*
+
+- Led the development of responsive UI modules using **React.js** and **JavaScript**, ensuring seamless user experiences across multiple devices and platforms.
+- Built reusable React components and improved code maintainability and performance by adopting **Test-Driven Development (TDD)** and adhering to coding best practices.
+- Developed an in-house UI component library with **React** and **TypeScript**, integrating **Storybook** for component documentation and unit testing, ensuring consistency across the application.
+- Conducted rigorous code reviews to enforce coding standards, enhance collaboration, and accelerate delivery timelines, ensuring high-quality code.
+- Collaborated closely with UX/UI designers and back-end engineers to integrate **REST APIs**, ensuring smooth functionality and consistent look-and-feel across the application.
+
+### Senior Experience Engineer  
+**Publicis Sapient** — Pune, India  
+*March 2022 – April 2024*
+
+- Specialized in **Next.Js**, **React.js**, **Redux**, **JavaScript**, **TypeScript**, and modern UI technologies to deliver high-quality, scalable, and maintainable frontend solutions for enterprise-level applications.
+- Developed reusable React components using **TDD** methodologies to ensure robust, error-free code, enhancing the quality of the overall application.
+- Integrated **GraphQL APIs**, ensuring seamless communication between the front-end and back-end to optimize data flow and user experience.
+- Led code reviews and provided mentorship to peers, improving team performance and maintaining high standards of code quality across the project.
+- Designed and implemented responsive, mobile-first web components using **Tailwind CSS** and **React.js** to ensure cross-device compatibility and a seamless user experience.
+
+### Senior Frontend Developer  
+**Webonise Labs Pvt. Ltd** — Pune, India  
+*December 2020 – March 2022*
+
+- Specialized in **React.js**, **Redux**, **HTML**, **JavaScript**, **CSS**, **SCSS**, and **Git**, developing high-quality, efficient front-end solutions for scalable applications.
+- Developed and maintained reusable React components, improving project efficiency and ensuring consistent UI elements across applications.
+- Contributed to a **micro-frontend architecture** project, creating modular, scalable front-end solutions for improved maintainability and flexibility.
+- Mentored junior developers, providing technical guidance and support to foster their growth, while also handling client communication for requirement clarification and project alignment.
+
+### UI Developer  
+**Retail Solutions Inc.** — Pune, India  
+*December 2018 – March 2020*
+
+- Utilized **Vue.js**, **Vuetify**, **Vuex**, **HTML**, **JavaScript**, and **CSS** to develop dynamic, high-performance applications, ensuring smooth and responsive user interfaces.
+- Developed reusable components for RSi products, following coding standards to maintain scalability, consistency, and efficiency across multiple projects.
+- Conducted thorough code reviews for team members, offering constructive feedback and ensuring adherence to best practices for improved code quality.
+- Managed project requirements from inception to execution, ensuring on-time delivery of high-quality features and successful project outcomes.
+- Mentored junior developers, providing hands-on guidance and technical support throughout the development process.
+
+### UI Developer  
+**DemandMatrix LLC** — Pune, India  
+*August 2017 – December 2018*
+
+- Developed both front-end and back-end solutions using **HTML**, **CSS3**, **JavaScript**, **React.js**, and **PHP**, enhancing user experience and functionality.
+- Led the development of a **Technographic Data Platform** and **Customer Engagement Management (CEM)** product, optimizing lead generation and improving client interactions.
+- Revamped the **WordPress** website and customized **HubSpot** templates, enhancing the company’s digital presence and streamlining content delivery.
+
+### Software Engineer (Freelancer)
+**Self-employed** — Belgaum, India
+*July 2015 – March 2016*
+
+- Developed custom desktop applications based on client requirements, ensuring high functionality and user satisfaction.
+- Managed project timelines, deliverables, and client communication throughout the development process.
+- Handled the full software development lifecycle, from requirement analysis and design to coding, testing, and deployment.
+- Provided ongoing maintenance and support, addressing client feedback and troubleshooting issues post-deployment.
 
 ---
+
+## Education
+
+**Bachelor of Computer Applications** – *Rani Channamma University*  
+*Belgaum, Karnataka, India*  
+*March 2013 – May 2016*  
+*73%*
+
+---
+
+## Projects
+
+### **[WEX Platform](https://workforceexperience.hp.com/)** 
+- **Technologies Used:** React.js, TypeScript, Storybook, REST APIs
+- Developed an in-house UI component library using React and TypeScript, integrating Storybook for component documentation and unit testing.
+
+### **[Comerica Bank](https://www.comerica.com/)**
+- **Technologies Used:** React.js, Next.js, GraphQL, D3.js  
+- Developed scalable UI components and integrated data from GraphQL APIs to display financial information in a user-friendly and interactive format.
+
+### **[Albertsons](https://www.albertsons.com/)**
+- **Technologies Used:** React.js, Next.js, Tailwind CSS  
+- Led the frontend development for a project aimed at improving the digital experience for customers by creating responsive and accessible UI components.
+
+### **[DRF](https://www.drf.com/)**
+- **Technologies Used:** React.js, Redux, JavaScript, GraphQL, SCSS  
+- Developed a dynamic, high-performance healthcare platform to enhance functionality and usability for professionals.
+
+### **[Cbiu](https://www.conceptbiu.com/)**
+- **Technologies Used:** React.js, Redux, JavaScript, Tailwind CSS, Scss  
+- Created scalable and modular components for a business intelligence platform, ensuring ease of use and quick data accessibility.
+
+### **[fetchpet.com](https://www.fetchpet.com/)**  
+- **Technologies Used:** React.js, Redux, JavaScript, SCSS, Tailwind CSS
+- Developed features for an online platform connecting pet owners with services, focusing on UI responsiveness and smooth user interactions.
+
+### **[Medischescholing](https://medischescholing.nl/)**
+- **Technologies Used:** Vue.js, Vuex, Buefy, JavaScript, SCSS  
+- Worked on a healthcare education platform, improving the user experience by building intuitive, user-friendly interfaces.
+
+### **[OSA Power](http://www.retailsolutions.com/solutions/for-retailers/on-shelf-availability-alerting/)**
+- **Technologies Used:** Vue.js, Vuetify, Vuex, HTML, JavaScript, CSS
+- Contributed to the development of OSA-Power, a dynamic web application for Inventory management.
+### **LeadGain - *Discontinued**
+- Technologies Used: React.js, Redux, JavaScript, PHP
+- Developed features for the LeadGain platform, which helps organizations generate high-quality leads and track their marketing efforts effectively.
+
+### **Demandmatrix**
+- **Technologies Used:** Wordpress, PHP, JavaScript, jQuery, HTML, CSS
+- Led the development of the Technographic Data Platform, enabling businesses to leverage data-driven insights for marketing and sales strategies. Enhanced customer engagement by designing and integrating custom PDF viewers and marketing templates.
+  
+---
+
+## Core Competencies
+
+- **Achievement/Results Orientation**
+- **Initiative and Proactivity**
+- **Technical Leadership and Mentorship**
+- **Project Management**
+- **Problem Solving and Analysis**
+- **Collaboration and Communication Skills**
+- **Team Player / Individual Contributor**
+
+---
+
+## Contact
+
+Feel free to reach out for collaboration, opportunities, or further details on any of my projects:
+
+- **Email:** rahulismyid@gmail.com  
+- **Phone:** +91 7040005157
