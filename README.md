@@ -24,6 +24,16 @@ Accomplished **Frontend Engineer** with over 6 years of experience in building s
 
 ## Professional Experience
 
+### React Lead  
+**Synechron** — Pune, India  
+*Feb 2025 – Present
+
+- Leading development of scalable and performant UI modules using React.js, TypeScript, Redux Toolkit, etc.
+- Collaborating with cross-functional teams including QA, and backend to deliver large-scale financial technology solutions.
+- Implementing component-based architecture with existing Storybook components and enforcing high code quality through unit testing (RTL, Jest).
+- Optimizing page load performance, reducing bundle size, and enhancing accessibility across major modules.
+- Participating in Agile ceremonies, driving sprint planning, code reviews, and continuous integration improvements.
+
 ### Senior Frontend Engineer  
 **TEKsystems** — Pune, India  
 *April 2024 – October 2024*
